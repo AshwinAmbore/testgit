@@ -1,1 +1,1 @@
-print ("Hello")
+print ("git for example")
